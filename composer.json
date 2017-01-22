@@ -1,5 +1,5 @@
 {
-    "name": "impresspages/ip-plugin-simple-product",
+    "name": "valexr/ip-plugin-simple-product",
     "description": "ImpressPages SimpleProduct plugin",
     "version": "1.02",
     "autoload": {

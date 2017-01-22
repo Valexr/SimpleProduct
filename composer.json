@@ -1,0 +1,13 @@
+{
+    "name": "impresspages/ip-plugin-simple-product",
+    "description": "ImpressPages SimpleProduct plugin",
+    "version": "1.02",
+    "autoload": {
+        "psr-4": {"Plugin\\SimpleProduct\\": "/"}
+    },
+    "minimum-stability": "stable",
+    "license": [
+        "MIT",
+        "GPL-3.0+"
+    ]
+}
